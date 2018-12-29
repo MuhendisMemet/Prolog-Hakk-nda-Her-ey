@@ -1,0 +1,18 @@
+echo "# Prolog-Hakk-nda-Her-ey" >> README.md 
+git init 
+git ekle README.md git'i ekle 
+-m "ilke" " 
+git uzaktan ekle orijini ekle git@github.com: MuhendisMemet / Prolog-Hakk-nda-Her-ey.git
+ git push -u kökenli master
+echo "# Prolog-Hakk-nda-Her-ey" >> README.md 
+git init 
+git ekle README.md git'i ekle 
+-m "ilke" " 
+git uzaktan ekle orijini ekle git@github.com: MuhendisMemet / Prolog-Hakk-nda-Her-ey.git
+ git push -u kökenli master
+echo "# Prolog-Hakk-nda-Her-ey" >> README.md 
+git init 
+git ekle README.md git'i ekle 
+-m "ilke" " 
+git uzaktan ekle orijini ekle git@github.com: MuhendisMemet / Prolog-Hakk-nda-Her-ey.git
+ git push -u kökenli master
